@@ -1,0 +1,11 @@
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\bin\Debug\Programacion.net.exe.config
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\bin\Debug\Programacion.net.exe
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\bin\Debug\Programacion.net.pdb
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\bin\Debug\Programacion.net.xml
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\obj\Debug\Programacion.net.Form1.resources
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\obj\Debug\Programacion.net.Resources.resources
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\obj\Debug\Programacion.net.vbproj.GenerateResource.cache
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\obj\Debug\Programacion.net.vbproj.CoreCompileInputs.cache
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\obj\Debug\Programacion.net.exe
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\obj\Debug\Programacion.net.xml
+C:\Users\Contabilidad\Desktop\Programacion .net\Programacion.net\Programacion.net\obj\Debug\Programacion.net.pdb
